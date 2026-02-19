@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klein-apophis11
 - 👀 I’m interested in Python, Ruby, game design and cryptocurrencies
-- 🌱 I’m currently building my portfolio for now.
+- 🌱 I’m currently building my portfolio with a couple of projects for now.
 - 💞️ I’m looking to collaborate on small, simple projects or anything pertaining to cryptocurrencies. Very interested in looking at and experiencing Perl at some point in time.
 - 📫 How to reach me...You can simply message me here, that's probably the best way to contact or reach me.
 
